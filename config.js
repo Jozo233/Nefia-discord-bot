@@ -8,6 +8,11 @@ const config = {
     "prefix": "~",
     "commandReply": "true", 
   },
+
+  "web" : {
+    "url": "http://localhost:3600",
+    "webToken": "sdenioe",
+  },
 };
 
 module.exports = config;
