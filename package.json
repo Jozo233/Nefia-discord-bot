@@ -1,0 +1,19 @@
+{
+  "name": "nefia",
+  "version": "1.0.0",
+  "description": "nefia is discord bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jozo233/Nefia-discord-bot.git"
+  },
+  "author": "Jozo_85",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jozo233/Nefia-discord-bot/issues"
+  },
+  "homepage": "https://github.com/Jozo233/Nefia-discord-bot#readme"
+}
